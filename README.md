@@ -4,9 +4,6 @@
 🎓 Computer Science Student | Exploring AI 🚀
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santwana07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
