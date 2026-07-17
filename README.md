@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Santwana Thapa</h1>
 
-<!--
-**santwana07/santwana07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🎓 Computer Science Student | Exploring AI 🚀
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santwana07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+- 🎓 Computer Science Student
+- 🤖 Passionate about Artificial Intelligence
+- 💻 Learning Web Development and new technologies
+- 🚀 Enjoy building real-world projects 
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+</p>
+
+### 💻 Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql" />
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:santwanathapa07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>📧 santwanathapa07@gmail.com</strong>
+</p>
+
+---
+
+<p align="center">
+✨ <i>Learning, Building, and Growing Every Day.</i> 🚀
+</p>
